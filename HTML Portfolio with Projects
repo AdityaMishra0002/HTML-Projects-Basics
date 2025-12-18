@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aditya's Portfolio Project</title>
+</head>
+<body>
+<header>
+<h1>Aditya Mishra's Portfolio (Showcasing my HTML Projects)</h1>
+<h2> I'm a web developer</h2>
+<hr/>
+<h3><a href = "http://127.0.0.1:3000/c:/Users/Aditya/Downloads/Web%20development%20Projeccts/2.4+Movie+Ranking+Project/2.4%20Movie%20Ranking%20Project/solution.html"> Movie ranking Project</a></h3>
+<img src = "./assets/images/Movie_ranking_Snippet.png" width="800" height = "400" alt = "Movie ranking project preview"/>
+
+<h3><a href = "http://127.0.0.1:3002/4.3%20HTML%20Porfolio%20Project/public/birthday-invite.html"> Boozy Birthday Invite gif</a></h3>
+<img src =  "./assets/images/Birthday_Invite.png" width="500" height = "400" alt = "Birthday invite project preview"/>
+
+</body>
+</html>
