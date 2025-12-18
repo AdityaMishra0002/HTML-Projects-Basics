@@ -7,5 +7,5 @@ A brief description of what this project does and who it's for:
 2. Birthday Invitation Project: A quirky and maybe a bit of a personal touch to the birthday invitation that could be sent on a mail to you friends/family members/colleagues.
 
 -Acknowledgements:
-1. Movie Ranking Project ([Link Text](filename.md)
+1. Movie Ranking Project ([Link Text](Birthday_Invitation_Link.md)
 2. Birthday Invitation Project ([Link Text](filename.md)
